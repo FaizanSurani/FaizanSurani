@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @FaizanSurani
 - 👀 I’m interested in Full stack development
-- 🌱 I’m currently learning React, tailwindcss and firebase
+- 🌱 I’m currently learning Node.js, Express.js
 - 💞️ I’m looking to collaborate on React Projects
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Learning with curiosity makes learning more intuitive
