@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @FaizanSurani
 - 👀 I’m interested in Full stack development
-- 🌱 I’m currently learning Node.js, Express.js
-- 💞️ I’m looking to collaborate on React Projects
+- 🌱 I’m currently Building Projects
+- 💞️ I’m looking to collaborate on MERN Stack Projects
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Learning with curiosity makes learning more intuitive
 
