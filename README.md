@@ -13,9 +13,6 @@ Check out [My Resume](https://drive.google.com/file/d/1NwPnKevCL5_nrzImWVfG_A1ju
 <a href="https://www.linkedin.com/in/faizan-surani">
  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </a>
-<a href="https://x.com/suranifaizan52">
- <img src="https://img.shields.io/twitter/" alt="X Badge"/>
-</a>
 <br>
 ---
 
