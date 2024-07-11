@@ -10,23 +10,23 @@ Check out [My Resume](https://drive.google.com/file/d/1NwPnKevCL5_nrzImWVfG_A1ju
 
 ![](https://komarev.com/ghpvc/?username=FaizanSurani&style=flat-square)
 <br><br>
-<a href="https://www.linkedin.com/in/bosepiush">
+<a href="https://www.linkedin.com/in/faizan-surani">
  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </a>
-<a href="https://www.instagram.com/namespace_piush/">
+<a href="https://x.com/suranifaizan52">
  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
 </a>
 <br>
 ---
 
 ### 🧰 Languages and Tools
-[![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react)](https://skillicons.dev)
 <br>
 [![My Skills](https://skillicons.dev/icons?i=vscode,postman,git,github)](https://skillicons.dev)
 <br>
-[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,firebase,tailwind,vercel)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,tailwind)](https://skillicons.dev)
 <br>
-[![My Skills](https://skillicons.dev/icons?i=vite,react,express)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vite,node,express)](https://skillicons.dev)
 
 ---
 ### 📊 Stats
