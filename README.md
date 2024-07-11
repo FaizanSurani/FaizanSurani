@@ -14,7 +14,7 @@ Check out [My Resume](https://drive.google.com/file/d/1NwPnKevCL5_nrzImWVfG_A1ju
  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </a>
 <a href="https://x.com/suranifaizan52">
- <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+ <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="X Badge"/>
 </a>
 <br>
 ---
@@ -24,9 +24,9 @@ Check out [My Resume](https://drive.google.com/file/d/1NwPnKevCL5_nrzImWVfG_A1ju
 <br>
 [![My Skills](https://skillicons.dev/icons?i=vscode,postman,git,github)](https://skillicons.dev)
 <br>
-[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,tailwind)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,tailwind,mongodb)](https://skillicons.dev)
 <br>
-[![My Skills](https://skillicons.dev/icons?i=vite,node,express)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vite,nodejs,express)](https://skillicons.dev)
 
 ---
 ### 📊 Stats
