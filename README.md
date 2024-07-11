@@ -6,7 +6,7 @@
 <br>
 I'm an indie full-stack developer and content creator building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code.
 
-Check out [My Resume](https://drive.google.com/file/d/1NwPnKevCL5_nrzImWVfG_A1jurt8v5p5/view?usp=sharing)
+Check out [My Resume]
 
 ![](https://komarev.com/ghpvc/?username=FaizanSurani&style=flat-square)
 <br><br>
