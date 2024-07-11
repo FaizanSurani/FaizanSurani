@@ -8,7 +8,6 @@ I'm an indie full-stack developer and content creator building my version of the
 
 Check out [My Resume]
 
-![](https://komarev.com/ghpvc/?username=FaizanSurani&style=flat-square)
 <br><br>
 <a href="https://www.linkedin.com/in/faizan-surani">
  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
